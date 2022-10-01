@@ -1,2 +1,2 @@
-# ebebekCase / Java to ebebekBootcamp
+# ebebekCase / Java to ebebekPracticum
 The Project shows specifications that Employee have.
