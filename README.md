@@ -1,2 +1,0 @@
-# ebebekCase
-Java to ebebekBootcamp
